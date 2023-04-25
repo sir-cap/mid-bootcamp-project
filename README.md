@@ -1,1 +1,2 @@
-# project2
+# Mid-bootcamp project
+
