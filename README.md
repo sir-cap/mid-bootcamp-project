@@ -10,4 +10,6 @@ This project was made to test if unpopular Spotify songs become TikTok songs. Fo
 During the process I perfomed some Featrure Extraction, Logistic Regression model and KNN model. 
 Since the model was not proving my hypotesis a positive feedback I applied a hypotesis testing using both datasets (used t-test). The result of the study are not statistically significant and there is not enough evidence to reject the null hypothesis.  This means that the results of the study are not reliable and may have been obtained due to chance. 
 
+Tableau Dashbord: https://public.tableau.com/views/Mid-bootcampproject_16824462791190/Dashboard3?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
+
 
